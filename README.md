@@ -1,4 +1,5 @@
 # BDM-Capstone-Project
+
 Conducted primary data analysis for Mamta Kirana & General Stores, a retail store in Katni, Madhya Pradesh, to optimize inventory and
 profitability.
 Cleaned and processed over 4 months of sales and inventory data across 12+ product categories including rice, dal, oils, and FMCG
